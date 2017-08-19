@@ -18,7 +18,7 @@ Iris is only supported on machines running MacOS
 For maximum compatibility, upgrade your machine to MacOS 10.12+
 
 ## Features
-Iris currently supports automatic texting, calling, faceTiming, and emailing for contacts individuals already in your computer contacts
+Iris currently supports automatic texting, calling, FaceTiming, and emailing for contacts individuals already in your computer contacts
 
 Iris has personality features that allow her to respond to various conversational questions based on a grid system that tracks different combinations of keywords entered by the user and determines the appropriate response from a selection of default responses.
 
