@@ -10,7 +10,10 @@ Download Iris.app.zip
 Unzip the file
 
 You will be prompted with a security concern. Head to System Preferences > Security and Privacy > Open Anyway
+
 The app is stored in the menu bar at the top of the screen. Select the eye icon to open the app
+
+You will be prompted to allow Iris to access your contacts the first time you open the app. Allow this in order for Iris to function properly
 
 ## System Requirements
 Iris is only supported on machines running MacOS
