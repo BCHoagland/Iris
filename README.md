@@ -20,3 +20,7 @@ For maximum compatibility, upgrade your machine to MacOS 10.12+
 
 ## Features
 Iris currently supports automatic texting, calling, faceTiming, and emailing for contacts individuals already in your computer contacts
+
+Iris has personality features that allow her to respond to various conversational questions based on a grid system that tracks different combinations of keywords entered by the user and determines the appropriate response from a selection of default responses.
+
+Introducing contact creation and expanding features to include internet searching, finding directions, and further personality development are planned for the future. Do to the highly modular nature of this application, this can be accomplished by adding only two new data instances and one new processing function per feature without altering any main blocks of existing code.
