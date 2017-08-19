@@ -5,13 +5,12 @@ Created by Braden Hoagland and Thomas Coleman
 
 
 ## To run:
-download Iris.app.zip
+Download Iris.app.zip
 
-unzip the file
+Unzip the file
 
-you will be prompted with a security concern. head to System Preferences > Security and Privacy > Open Anyway
-
-the app is stored in the menu bar at the top of the screen. select the eye icon to open the app
+You will be prompted with a security concern. Head to System Preferences > Security and Privacy > Open Anyway
+The app is stored in the menu bar at the top of the screen. Select the eye icon to open the app
 
 ## System Requirements
 Iris is only supported on machines running MacOS
