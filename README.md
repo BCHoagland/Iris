@@ -15,8 +15,6 @@ The app is stored in the menu bar at the top of the screen. Select the eye icon 
 
 You will be prompted to allow Iris to access your contacts the first time you open the app. Allow this in order for Iris to function properly
 
-*If the .app file does not work and your computer has an updated version of Xcode, you can download Iris.xcodeproj and manually build and run the application from there*
-
 ## System Requirements
 Iris is only supported on machines running MacOS
 
