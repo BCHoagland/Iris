@@ -1,7 +1,7 @@
 # Iris
 Iris personal assistant for the BigParser 2017 Summer Hackathon
 
-Created by Braden Hoagland, Thomas Coleman, and Ethan Ladd
+Created by Braden Hoagland
 
 
 ## To Run:
